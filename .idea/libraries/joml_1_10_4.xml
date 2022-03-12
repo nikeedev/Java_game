@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="joml-1.10.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/joml-1.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-assimp-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-assimp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-openal-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-stb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl-stb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl/lwjgl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
